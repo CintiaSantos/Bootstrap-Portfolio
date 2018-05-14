@@ -26,3 +26,7 @@ width: auto;
 }
 
 .article {} */
+.col-center {
+    float: none;
+    margin: 0 auto;
+}
