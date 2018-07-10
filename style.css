@@ -1,7 +1,7 @@
 body {background-color: #dddddd;
  }
 
-.container {
+/*.container {
 height: 500px;
 background-color: white;
 margin-top: 15px;
@@ -39,4 +39,32 @@ margin: 20px;}
 
 .col-lg-6 {margin-top: 25px;
 }
-h1 {color: #4aaaa5 }
+h1 {color: #4aaaa5 } */
+
+/*!
+ * Start Bootstrap - 2 Col Portfolio (https://startbootstrap.com/template-overviews/2-col-portfolio)
+ * Copyright 2013-2018 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-2-col-portfolio/blob/master/LICENSE)
+ */
+
+ body {
+    padding-top: 54px;
+  }
+  
+  .my-4 {
+    padding-top: 2rem !important;
+  }
+  @media (min-width: 992px) {
+    body {
+      padding-top: 56px;
+    }
+  }
+  
+  .portfolio-item {
+    margin-bottom: 30px;
+  }
+  
+  .pagination {
+    margin-bottom: 30px;
+  }
+  
